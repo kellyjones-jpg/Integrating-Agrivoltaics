@@ -1,2 +1,8 @@
 # Integrating-Agrivoltaics
-An interactive Processing sketch. 
+Integrating Agrivoltaics: Pollinator-Friendly Farming Tips is an interactive sketch that highlights sustainable farming practices for agrivoltaic sites. At its core, the project features lightbulb icons that users can click to reveal pollinator-friendly farming tips, each tied to key agricultural practices such as planting diverse crops, encouraging natural pest control, and selecting shade-tolerant species. Upon interaction, a tooltip appears with relevant information alongside an accompanying sound, reinforcing the connection between visual and auditory learning.
+
+Just as the project name emphasizes the seamless integration of agrivoltaics with pollinator-friendly farming, the interactive tooltips serve as a direct extension of this concept within the digital space. Each tooltip is embedded into the agrivoltaics site, much like sustainable farming practices are embedded into agrivoltaic landscapes, reinforcing my broader goal of demonstrating coexistence between renewable energy and biodiversity preservation.
+
+A key feature of the experience is its automatic reset 15 seconds after the user selects the last lightbulb, allowing them to refresh the interaction and explore the content again. This periodic reset not only keeps the experience dynamic and engaging for the current user but also enables other users to interact with it once the previous user is done, fostering continued exploration of how agrivoltaics can support pollinators and sustainable agriculture.
+
+By combining interactive elements with educational content, this experience invites users to explore how agrivoltaics can support pollinators and sustainable agriculture in an engaging and immersive way. The tooltip system, both visually and conceptually, reflects the harmony between technology and ecological stewardship—underscoring the mission to make renewable energy landscapes more inclusive of thriving ecosystems.
